@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Sadini Gannewa</h1>
+<h1 align="center">Hi👋, I'm Sandini Gannewa</h1>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&width=435&lines=I'm+Frontend+Developer+from+Sri+Lanka;+UI/UX+Designer...;+UI/UX+Developer...;+Project Management...;" alt="Typing SVG" /></a>
 </div> 
